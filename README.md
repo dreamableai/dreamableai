@@ -113,8 +113,8 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dreamableai&theme=vue&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" border-radius="5%" alt="activity graph">
 
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dreamableai@gmail.com&theme=nord_dark) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dreamableai@gmail.com&theme=vue" width="49.5%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dreamableai@gmail.com&theme=vue" width="49.5%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dreamableai@gmail.com&theme=vue" width="49.5%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dreamableai@gmail.com&theme=vue" width="49.5%" />
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dreamableai&theme=nord_dark) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dreamableai&theme=vue" width="49.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dreamableai&theme=vue" width="49.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dreamableai&theme=vue" width="49.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dreamableai&theme=vue" width="49.5%" />
